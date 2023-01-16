@@ -119,7 +119,7 @@ class _HomePageState extends State<HomePage> {
           buttonWidget("WhatsApp Support", () {
             _launchUrl(
               Uri.parse(
-                'http://wa.me/+923055573634?text=hello',
+                'http://wa.me/+2348082509646?text=hello',
               ),
             );
           }),
